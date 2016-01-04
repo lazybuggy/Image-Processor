@@ -1,0 +1,107 @@
+C:\Users\Rino\AppData\Local\Temporary Projects\ImageProcessing\bin\Debug\ImageProcessing.exe
+C:\Users\Rino\AppData\Local\Temporary Projects\ImageProcessing\bin\Debug\ImageProcessing.pdb
+C:\Users\Rino\AppData\Local\Temporary Projects\ImageProcessing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rino\AppData\Local\Temporary Projects\ImageProcessing\obj\Debug\ImageProcessing.Form1.resources
+C:\Users\Rino\AppData\Local\Temporary Projects\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+C:\Users\Rino\AppData\Local\Temporary Projects\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
+C:\Users\Rino\AppData\Local\Temporary Projects\ImageProcessing\obj\Debug\ImageProcessing.exe
+C:\Users\Rino\AppData\Local\Temporary Projects\ImageProcessing\obj\Debug\ImageProcessing.pdb
+C:\Rino's Stuff\Education\Computer Science\2008-2009 Semester 1\ICS4M\Unit 1 - Arrays\Programs\ImageProcessing\obj\Debug\ImageProcessing.exe
+C:\Rino's Stuff\Education\Computer Science\2008-2009 Semester 1\ICS4M\Unit 1 - Arrays\Programs\ImageProcessing\obj\Debug\ImageProcessing.pdb
+C:\Rino's Stuff\Education\Computer Science\2008-2009 Semester 1\ICS4M\Unit 1 - Arrays\Programs\ImageProcessing\bin\Debug\ImageProcessing.exe
+C:\Rino's Stuff\Education\Computer Science\2008-2009 Semester 1\ICS4M\Unit 1 - Arrays\Programs\ImageProcessing\bin\Debug\ImageProcessing.pdb
+C:\Rino's Stuff\Education\Computer Science\2008-2009 Semester 1\ICS4M\Unit 1 - Arrays\Programs\ImageProcessing\obj\Debug\ResolveAssemblyReference.cache
+C:\Rino's Stuff\Education\Computer Science\2008-2009 Semester 1\ICS4M\Unit 1 - Arrays\Programs\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+C:\Rino's Stuff\Education\Computer Science\2008-2009 Semester 1\ICS4M\Unit 1 - Arrays\Programs\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
+C:\Rino's Stuff\Education\Computer Science\2008-2009 Semester 1\ICS4M\Unit 1 - Arrays\Programs\ImageProcessing\obj\Debug\ImageProcessing.frmMain.resources
+C:\Rino's Stuff\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing\obj\Debug\ImageProcessing.exe
+C:\Rino's Stuff\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing\obj\Debug\ImageProcessing.pdb
+C:\Rino's Stuff\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing\bin\Debug\ImageProcessing.exe
+C:\Rino's Stuff\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing\bin\Debug\ImageProcessing.pdb
+C:\Rino's Stuff\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing\obj\Debug\ResolveAssemblyReference.cache
+C:\Rino's Stuff\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing\obj\Debug\ImageProcessing.frmMain.resources
+C:\Rino's Stuff\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+C:\Rino's Stuff\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
+C:\Rino's Stuff\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.exe
+C:\Rino's Stuff\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.pdb
+C:\Rino's Stuff\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\bin\Debug\ImageProcessing.exe
+C:\Rino's Stuff\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\bin\Debug\ImageProcessing.pdb
+C:\Rino's Stuff\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ResolveAssemblyReference.cache
+C:\Rino's Stuff\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.frmMain.resources
+C:\Rino's Stuff\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.Properties.Resources.resources
+C:\Rino's Stuff\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
+D:\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.exe
+D:\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.pdb
+D:\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\bin\Debug\ImageProcessing.exe
+D:\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\bin\Debug\ImageProcessing.pdb
+D:\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ResolveAssemblyReference.cache
+D:\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.frmMain.resources
+D:\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.Properties.Resources.resources
+D:\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ResGen.read.1.tlog
+D:\Education\Computer Science\2009-2010 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ResGen.write.1.tlog
+D:\Education\Computer Science\2013-2014 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.exe
+D:\Education\Computer Science\2013-2014 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.pdb
+D:\Education\Computer Science\2013-2014 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\bin\Debug\ImageProcessing.exe
+D:\Education\Computer Science\2013-2014 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\bin\Debug\ImageProcessing.pdb
+D:\Education\Computer Science\2013-2014 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.frmMain.resources
+D:\Education\Computer Science\2013-2014 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.Properties.Resources.resources
+D:\Education\Computer Science\2013-2014 Semester 1\ICS4U\Unit 1 - Arrays\Programs\ImageProcessing - Student Version\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
+C:\Documents and Settings\069625911\My Documents\ICS4U\Assignments\Assignment3\ImageProcessing - Student Version\obj\Debug\ImageProcessing.exe
+C:\Documents and Settings\069625911\My Documents\ICS4U\Assignments\Assignment3\ImageProcessing - Student Version\obj\Debug\ImageProcessing.pdb
+C:\Documents and Settings\069625911\My Documents\ICS4U\Assignments\Assignment3\ImageProcessing - Student Version\bin\Debug\ImageProcessing.exe
+C:\Documents and Settings\069625911\My Documents\ICS4U\Assignments\Assignment3\ImageProcessing - Student Version\bin\Debug\ImageProcessing.pdb
+C:\Documents and Settings\069625911\My Documents\ICS4U\Assignments\Assignment3\ImageProcessing - Student Version\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\069625911\My Documents\ICS4U\Assignments\Assignment3\ImageProcessing - Student Version\obj\Debug\ImageProcessing.frmMain.resources
+C:\Documents and Settings\069625911\My Documents\ICS4U\Assignments\Assignment3\ImageProcessing - Student Version\obj\Debug\ImageProcessing.Properties.Resources.resources
+C:\Documents and Settings\069625911\My Documents\ICS4U\Assignments\Assignment3\ImageProcessing - Student Version\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\069625911\My Documents\ICS4U\Assignments\Assignment3\ImageProcessing - Student Version\obj\Debug\ResGen.read.1.tlog
+C:\Documents and Settings\069625911\My Documents\ICS4U\Assignments\Assignment3\ImageProcessing - Student Version\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\069625911\My Documents\ICS4U\Assignments\Assignment3\ImageProcessing - Student Version\obj\Debug\ResGen.write.1.tlog
+G:\Lucia's stuff\Computer Science (G12)\Assignments\Assignment3\ImageProcessing - Student Version\obj\Debug\ImageProcessing.exe
+G:\Lucia's stuff\Computer Science (G12)\Assignments\Assignment3\ImageProcessing - Student Version\obj\Debug\ImageProcessing.pdb
+I:\Lucia's stuff\Computer Science (G12)\Assignments\Assignment3\ImageProcessing - Student Version\obj\Debug\ImageProcessing.exe
+I:\Lucia's stuff\Computer Science (G12)\Assignments\Assignment3\ImageProcessing - Student Version\obj\Debug\ImageProcessing.pdb
+I:\Lucia's stuff\Computer Science (G12)\Assignments\Assignment3\ImageProcessing - Student Version\bin\Debug\ImageProcessing.exe
+I:\Lucia's stuff\Computer Science (G12)\Assignments\Assignment3\ImageProcessing - Student Version\bin\Debug\ImageProcessing.pdb
+I:\Lucia's stuff\Computer Science (G12)\Assignments\Assignment3\ImageProcessing - Student Version\obj\Debug\ResolveAssemblyReference.cache
+I:\Lucia's stuff\Computer Science (G12)\Assignments\Assignment3\ImageProcessing - Student Version\obj\Debug\ImageProcessing.frmMain.resources
+I:\Lucia's stuff\Computer Science (G12)\Assignments\Assignment3\ImageProcessing - Student Version\obj\Debug\ImageProcessing.Properties.Resources.resources
+I:\Lucia's stuff\Computer Science (G12)\Assignments\Assignment3\ImageProcessing - Student Version\obj\Debug\GenerateResource-ResGen.read.1.tlog
+I:\Lucia's stuff\Computer Science (G12)\Assignments\Assignment3\ImageProcessing - Student Version\obj\Debug\ResGen.read.1.tlog
+I:\Lucia's stuff\Computer Science (G12)\Assignments\Assignment3\ImageProcessing - Student Version\obj\Debug\GenerateResource-ResGen.write.1.tlog
+I:\Lucia's stuff\Computer Science (G12)\Assignments\Assignment3\ImageProcessing - Student Version\obj\Debug\ResGen.write.1.tlog
+G:\Lucia's stuff\Computer Science (G12)\Assignments\Assignment3\ImageProcessing - Student Version\bin\Debug\ImageProcessing.exe
+G:\Lucia's stuff\Computer Science (G12)\Assignments\Assignment3\ImageProcessing - Student Version\bin\Debug\ImageProcessing.pdb
+G:\Lucia's stuff\Computer Science (G12)\Assignments\Assignment3\ImageProcessing - Student Version\obj\Debug\ResolveAssemblyReference.cache
+G:\Lucia's stuff\Computer Science (G12)\Assignments\Assignment3\ImageProcessing - Student Version\obj\Debug\ImageProcessing.frmMain.resources
+G:\Lucia's stuff\Computer Science (G12)\Assignments\Assignment3\ImageProcessing - Student Version\obj\Debug\ImageProcessing.Properties.Resources.resources
+G:\Lucia's stuff\Computer Science (G12)\Assignments\Assignment3\ImageProcessing - Student Version\obj\Debug\GenerateResource-ResGen.read.1.tlog
+G:\Lucia's stuff\Computer Science (G12)\Assignments\Assignment3\ImageProcessing - Student Version\obj\Debug\GenerateResource-ResGen.write.1.tlog
+G:\Lucia's stuff\Computer Science (G12)\Assignments\Assignment3\ImageProcessing - Student Version\obj\Debug\ResGen.read.1.tlog
+G:\Lucia's stuff\Computer Science (G12)\Assignments\Assignment3\ImageProcessing - Student Version\obj\Debug\ResGen.write.1.tlog
+C:\Users\Lucia\Desktop\ImageProcessing - Student Version\obj\Debug\ImageProcessing.exe
+C:\Users\Lucia\Desktop\ImageProcessing - Student Version\obj\Debug\ImageProcessing.pdb
+C:\Users\Lucia\Desktop\ImageProcessing - Student Version\bin\Debug\ImageProcessing.exe
+C:\Users\Lucia\Desktop\ImageProcessing - Student Version\bin\Debug\ImageProcessing.pdb
+C:\Users\Lucia\Desktop\ImageProcessing - Student Version\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Lucia\Desktop\ImageProcessing - Student Version\obj\Debug\ImageProcessing.frmMain.resources
+C:\Users\Lucia\Desktop\ImageProcessing - Student Version\obj\Debug\ImageProcessing.Properties.Resources.resources
+C:\Users\Lucia\Desktop\ImageProcessing - Student Version\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Lucia\Desktop\ImageProcessing - Student Version\obj\Debug\ResGen.read.1.tlog
+C:\Users\Lucia\Desktop\ImageProcessing - Student Version\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Lucia\Desktop\ImageProcessing - Student Version\obj\Debug\ResGen.write.1.tlog
+F:\Lucia's stuff\Computer Science\Computer Science (G12)\Assignments\Assignment3\ImageProcessing - Student Version\obj\Debug\ImageProcessing.exe
+F:\Lucia's stuff\Computer Science\Computer Science (G12)\Assignments\Assignment3\ImageProcessing - Student Version\obj\Debug\ImageProcessing.pdb
+F:\Lucia's stuff\Computer Science\Computer Science (G12)\Assignments\Assignment3\ImageProcessing - Student Version\bin\Debug\ImageProcessing.exe
+F:\Lucia's stuff\Computer Science\Computer Science (G12)\Assignments\Assignment3\ImageProcessing - Student Version\bin\Debug\ImageProcessing.pdb
+F:\Lucia's stuff\Computer Science\Computer Science (G12)\Assignments\Assignment3\ImageProcessing - Student Version\obj\Debug\ImageProcessing.frmMain.resources
+F:\Lucia's stuff\Computer Science\Computer Science (G12)\Assignments\Assignment3\ImageProcessing - Student Version\obj\Debug\ImageProcessing.Properties.Resources.resources
+F:\Lucia's stuff\Computer Science\Computer Science (G12)\Assignments\Assignment3\ImageProcessing - Student Version\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
+F:\Lucia's stuff\High School\Computer Science\Computer Science (G12)\Assignments\Assignment3\ImageProcessing - Student Version\bin\Debug\ImageProcessing.exe.config
+F:\Lucia's stuff\High School\Computer Science\Computer Science (G12)\Assignments\Assignment3\ImageProcessing - Student Version\obj\Debug\ImageProcessing.exe
+F:\Lucia's stuff\High School\Computer Science\Computer Science (G12)\Assignments\Assignment3\ImageProcessing - Student Version\obj\Debug\ImageProcessing.pdb
+F:\Lucia's stuff\High School\Computer Science\Computer Science (G12)\Assignments\Assignment3\ImageProcessing - Student Version\bin\Debug\ImageProcessing.exe
+F:\Lucia's stuff\High School\Computer Science\Computer Science (G12)\Assignments\Assignment3\ImageProcessing - Student Version\bin\Debug\ImageProcessing.pdb
+F:\Lucia's stuff\High School\Computer Science\Computer Science (G12)\Assignments\Assignment3\ImageProcessing - Student Version\obj\Debug\ImageProcessing.frmMain.resources
+F:\Lucia's stuff\High School\Computer Science\Computer Science (G12)\Assignments\Assignment3\ImageProcessing - Student Version\obj\Debug\ImageProcessing.Properties.Resources.resources
+F:\Lucia's stuff\High School\Computer Science\Computer Science (G12)\Assignments\Assignment3\ImageProcessing - Student Version\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
